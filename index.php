@@ -94,7 +94,7 @@ $animeNameWithEP = $data['animeNameWithEP'];
         displaytitle: true,
         displaydescription: true,
         abouttext: "OTAKUBITE",
-        aboutlink: "https://otakubite.rf.gd",
+        aboutlink: "https://daftanime.com",
         autostart: true,
         skin: {
             name: "netflix"
