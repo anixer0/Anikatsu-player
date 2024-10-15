@@ -1,6 +1,6 @@
 <?php 
 
-$api = "https://anikatsu-api-2024.vercel.app";
+$api = "https://streaming-api-beta.vercel.app";
 $id = $_GET['id'];
 
 $json = file_get_contents("$api/vidcdn/watch/$id");
